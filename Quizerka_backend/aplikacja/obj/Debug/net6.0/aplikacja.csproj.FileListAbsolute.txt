@@ -1,0 +1,85 @@
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\appsettings.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.exe
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.deps.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.runtimeconfig.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.pdb
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfo.cs
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.aplikacja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.build.aplikacja.props
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.aplikacja.props
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.aplikacja.props
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\scopedcss\bundle\aplikacja.styles.css
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\refint\aplikacja.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.pdb
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.genruntimeconfig.cache
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\ref\aplikacja.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CopyComplete
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\aplikacja\aplikacja\bin\Debug\net6.0\quiz.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.AssemblyReference.cache
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfoInputs.cache
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfo.cs
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.dll
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\refint\aplikacja.dll
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.pdb
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\appsettings.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\quiz.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.exe
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.deps.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.runtimeconfig.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.dll
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\aplikacja.pdb
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\scopedcss\bundle\aplikacja.styles.css
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CopyComplete
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\aplikacja.genruntimeconfig.cache
+C:\Users\filip\Downloads\zadanie C sharp jako backend + frontend\aplikacja\aplikacja\aplikacja\obj\Debug\net6.0\ref\aplikacja.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\appsettings.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\quiz.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\aplikacja.exe
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\aplikacja.deps.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\aplikacja.runtimeconfig.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\aplikacja.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\aplikacja.pdb
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.csproj.AssemblyReference.cache
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfoInputs.cache
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.AssemblyInfo.cs
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.aplikacja.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.build.aplikacja.props
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.aplikacja.props
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.aplikacja.props
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\scopedcss\bundle\aplikacja.styles.css
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.csproj.CopyComplete
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\refint\aplikacja.dll
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.pdb
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\aplikacja.genruntimeconfig.cache
+C:\Users\koncz\Desktop\Quizerka_backend\aplikacja\obj\Debug\net6.0\ref\aplikacja.dll

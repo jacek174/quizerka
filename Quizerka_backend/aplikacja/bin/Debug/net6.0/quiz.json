@@ -1,0 +1,30 @@
+[
+    {
+        "pytanie": "Ile to jest dwa do potęgi drugiej?",
+        "odpowiedz": "4"
+    },
+    {
+        "pytanie": "Ile to jest dwa plus dwa?",
+        "odpowiedz": "4"
+    },
+    {
+        "pytanie": "Ile to cztery minus dwa?",
+        "odpowiedz": "2"
+    },
+    {
+        "pytanie": "Ile to pięc razy pięć?",
+        "odpowiedz": "25"
+    },
+    {
+        "pytanie": "Ile to jest jeden razy zero?",
+        "odpowiedz": "0"
+    },
+    {
+        "pytanie": "Ile to jest dwa plus trzy?",
+        "odpowiedz": "5"
+    },
+    {
+        "pytanie": "Ile to jest jeden plus osiem?",
+        "odpowiedz": "9"
+    }
+] 
