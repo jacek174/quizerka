@@ -1,0 +1,223 @@
+* {
+    margin:0;
+    padding:0;
+  }
+  
+  body {
+    background: rgb(253, 243, 235);
+    margin: 0;
+    font-family: 'Lato';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  h2 {
+    font-weight: bold;
+    font-size: 2rem;
+    color: black;
+  }
+  
+  h4 {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    user-select: none;
+    cursor: pointer;
+  }
+  
+  .login-panel {
+    background: #ffece0;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
+  
+  .login-panel label {
+    width: 60px;
+    padding-right: 2px;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  .login-panel input {
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  form div {
+    color: black;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  form input[type=submit] {
+    float: right;
+    margin-right: 15px;
+    padding: 5px;
+    font-size: 14px;
+    background: rgb(113, 38, 128);
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 1px 4px rgba(0,0,0,0.23);
+  }
+  
+  form input[type=submit]:hover {
+    background: white;
+    color: salmon;;
+  }
+  
+  .clear {
+    clear: both;
+  }
+  
+  div.info {
+    color: black;
+    text-align: center;
+  }
+  
+  .repassword {
+    vertical-align: bottom;
+  }
+  
+  nav {
+    height: 50px;
+    width: 100%;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    font-size: 18px;
+    line-height: 50px;
+    user-select: none;
+    overflow: hidden;
+    background-color: #ffece0;
+    color: black;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+  }
+  
+  nav button {
+    float: right;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(255, 55, 33);
+    border: none;
+    color: white;
+    margin-right: 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-family: 'Cinzel', serif;
+  }
+  
+  
+  nav button:hover {
+    background: white;
+    color: #0d6efd;
+  }
+  
+  nav .home {
+    float: left;
+    padding: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: unset;
+  }
+  
+  nav .home a {
+    color: black;
+    font-weight: 700;
+    text-decoration: none;
+  }
+  
+  nav .home:hover {
+    background: #fd0d69;
+  }
+  
+  nav .home:hover a {
+    color: white;
+  
+  }
+  
+  nav .header {
+    font-weight: 600;
+  }
+  
+  .not-found {
+    background: #ffffe0;
+    width: 800px;
+    font-size: 72px;
+    text-align: center;
+    margin: 150px auto;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding: 25px;
+  }
+  
+  .empty {
+    background: rgb(243, 195, 154);
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    padding: 15px;
+    margin-top: 30px;
+    color: white;
+  }
+  
+  .hide {
+    display: none;
+  }
+
+  .notfound {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 72px;
+  }
+
+  .main-form {
+    width: 500px;
+    margin: 0 auto;
+    background: rgb(240, 245, 227);
+    border-radius: 10px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+    margin-top: 40px;
+  }
+
+  .clear {
+    clear: both;
+  }
+
+  label {
+    width: 250px;
+    word-wrap: break-word;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+  textarea {
+    max-width: 200px;
+    min-width: 200px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+    padding: 5px;
+  }
+
+  .results {
+    font-size: 25px;
+    text-align: center;
+    padding: 10px;
+  }
+
+
+  .hide {
+    display: none;
+  }
