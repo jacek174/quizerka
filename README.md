@@ -1,4 +1,4 @@
-# quizerka
+# Quizerka
 
 Zgodnie z sugestiami zawartymi w komentarzach do zadania:
 - Dodano komentarze do backendu napisanego w C#
